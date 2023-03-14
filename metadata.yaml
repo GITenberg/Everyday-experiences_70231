@@ -1,11 +1,16 @@
 _repo: Everyday-experiences_70231
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70231-h/images/cover.jpg
 creator:
   author:
     agent_name: Sears, F. W.
     gutenberg_agent_id: '55663'
     url: http://www.gutenberg.org/2009/agents/55663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70231#Everyday-experiences
 gutenberg_issued: '2023-03-07'
 identifiers:
   gutenberg: '70231'
